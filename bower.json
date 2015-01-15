@@ -1,0 +1,21 @@
+{
+  "name": "test-bacon",
+  "version": "1.0.0",
+  "authors": [
+    "Guido García <palmerabollo@gmail.com>"
+  ],
+  "description": "Test with Bacon.js",
+  "keywords": [
+    "bacon",
+    "frp"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
